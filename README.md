@@ -1,4 +1,4 @@
 [ms learn demo](mslearn1.html)
 <br>
 </br>
-[Triva demo](trvia.html)
+[Triva demo](trivia.html)
